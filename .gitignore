@@ -1,2 +1,5 @@
 
 /.vscode/launch.json
+/common/__pycache__/__init__.cpython-37.pyc
+/common/util/__pycache__/__init__.cpython-37.pyc
+/common/vision/__pycache__/__init__.cpython-37.pyc
